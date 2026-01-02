@@ -1,1 +1,0 @@
-this project is for learning git and devops workflows .
